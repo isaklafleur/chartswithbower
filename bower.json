@@ -1,0 +1,21 @@
+{
+  "name": "chartswithbower",
+  "authors": [
+    "Isak La Fleur <isak.engdahl@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "chart.js": "^2.5.0"
+  }
+}
